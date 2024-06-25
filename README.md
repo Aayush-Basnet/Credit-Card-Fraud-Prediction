@@ -23,21 +23,24 @@ This project focuses on credit card transactions and provides detailed insights 
 2. Data Preparation: Imported the cleaned data into Power BI for visualization.
 3. Data Visualization: Created interactive dashboards in Power BI to visualize key metrics and trends.
 ![alt text](https://github.com/Aayush-Basnet/Credit-Card-Fraud-Prediction/blob/1f14b78a51de9be75c1567f3d48f46803a8b8902/Credit%20Card%20Transaction%20Report/Trasnaction-Home%20Report.png)
+
 Insights:
 Revenue Analysis:
-1. Quarterly Trends: Stable revenue across quarters, with slight increases in Q3 and Q4.
+1. Quarterly Trends: Stable revenue across quarters, with slight decrease in Q3 and Q4.
 2. Expenditure Types: Highest revenue from bills, entertainment, fuel, groceries, and travel.
 3. Demographics: Higher revenue from graduates, High-School, businessmen, and white-collar workers.
 4. Card Types: Blue cardholders contribute the most revenue.
 5. Transaction Methods: Swipe transactions generate the most revenue.
+6. Customer Job: Businessman contribute the most revenue followed by White-collar
 ![alt text](https://github.com/Aayush-Basnet/Credit-Card-Fraud-Prediction/blob/1f14b78a51de9be75c1567f3d48f46803a8b8902/Credit%20Card%20Transaction%20Report/Customer%20Report.png)
-Here are some key highlights:
 
+Here are some key highlights:
 🔹 Week-over-Week Changes:
 - Revenue increased by 28.8%
 - Total Transaction Amount & Count rose by 35% & 12.8%
 - Customer count grew by 12.8%
-![alt text]
+![alt text](https://github.com/Aayush-Basnet/Credit-Card-Fraud-Prediction/blob/e5b575b5acced30860811dc338538571178dab8b/Credit%20Card%20Transaction%20Report/Income%20Report.png)
+
 🔹 Year-to-Date Overview:
 - Overall revenue: $56.5M
 - Total interest: $8M
